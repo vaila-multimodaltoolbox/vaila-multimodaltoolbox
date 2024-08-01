@@ -6,8 +6,8 @@ Welcome to **vailá** - Versatile Anarcho Integrated Liberation Ánalysis in Mul
   <img src="vaila.png" alt="vailá Logo" width="100"/>
 </center>
 
-**Main Code Repository**: [vailá](https://github.com/your-repo/vaila)  
-**Documentation**: [Getting Started with vailá](https://github.com/your-repo/vaila/docs)
+**Main Code Repository**: [vailá](https://github.com/vaila-multimodaltoolbox/vaila)  
+**Documentation**: [Getting Started with vailá](https://github.com/vaila-multimodaltoolbox/vaila/blob/main/docs/README.md)
 
 ### About vailá
 
