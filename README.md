@@ -1,4 +1,4 @@
-## Hello, code releases people! https://emojis.sh/emoji/v-for-vendetta-m05wanr7JM
+## Hello, code releases people!
 
 Welcome to **vailá** - Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox! This is not just another software; it's an idea. A revolutionary idea that challenges the norms of commercial systems, providing a free, versatile, and powerful tool for biomechanical analysis.
 
