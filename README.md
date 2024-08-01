@@ -2,7 +2,8 @@
 
 Welcome to **vailá** - Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox! This is not just another software; it's an idea. A revolutionary idea that challenges the norms of commercial systems, providing a free, versatile, and powerful tool for biomechanical analysis.
 
-![vailá Logo](vaila.png)
+<img src="vaila.png" alt="vailá Logo" width="300"/>
+
 
 **Main Code Repository**: [vailá](https://github.com/your-repo/vaila)  
 **Documentation**: [Getting Started with vailá](https://github.com/your-repo/vaila/docs)
