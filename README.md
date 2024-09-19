@@ -15,13 +15,37 @@ Welcome to **vailá** - Versatile Anarcho Integrated Liberation Ánalysis in Mul
 
 ### Features and Capabilities
 
-- **IMU Analysis**: Process and interpret motion data from wearable IMU sensors. 🌀
-- **Kinematic Cluster Analysis**: Analyze cluster marker data from motion capture systems. 🎯
-- **Full Body Motion Capture System Analysis**: Process full-body motion capture data in C3D format. 🕺💃
-- **Markerless 2D and 3D Video Analysis**: Extract motion data from 2D and 3D video recordings. 📹🖼️
-- **CSV Editing and C3D Conversion**: Organize and convert motion capture data for easier analysis. 🗂️
-- **Video Metadata Extraction and Editing**: Synchronize and edit video data for analysis. 📝🎞️
-- **Video Compression**: Compress videos using HEVC (H.265) and H.264 codecs. 🔄📼
+- Multimodal Data Analysis:
+  - IMU Analysis: Process and interpret motion data from wearable IMU sensors. 🌀
+  - Kinematic Cluster Analysis: Analyze cluster marker data from motion capture systems. 🎯
+  - Full-Body Motion Capture Analysis: Process full-body motion capture data in C3D format. 🕺💃
+  - Markerless 2D and 3D Video Analysis: Extract motion data from 2D and 3D video recordings. 📹🖼️
+  - Force Plate Analysis: Analyze force plate data for kinetic assessments. 🦶
+  - GNSS/GPS Data Analysis: Integrate and analyze GNSS/GPS data for movement tracking. 🌍
+  - EMG Analysis: Process electromyography data for muscle activity assessment. 💪
+  - MEG/EEG Analysis: Incorporate magnetoencephalography and electroencephalography data. 🧠
+  - Heart Rate/ECG Analysis: Analyze heart rate and ECG data for physiological monitoring. ❤️
+
+- File Management Tools:
+  - Comprehensive Operations: Rename, import, export, copy, move, remove, display directory trees, find, and transfer files with ease. 🗂️
+
+- Data Conversion Tools:
+  - C3D and CSV Conversion: Seamlessly convert between C3D and CSV data formats. 🔄
+  - Direct Linear Transformation (DLT):
+  - 2D and 3D DLT: Compute DLT parameters for accurate motion reconstruction.
+  - Reconstruction Tools: Perform 2D and 3D reconstructions using single or multiple DLTs.
+
+- Video Processing Tools:
+  - Video and Image Conversion: Convert videos to image sequences and vice versa. 🎞️🖼️
+  - Video Editing: Cut and trim videos to focus on specific segments. ✂️
+  - Video Compression: Reduce file sizes using H.264 and HEVC (H.265) codecs. 🔄📼
+  - Synchronization: Sync multiple video streams for coordinated analysis. ⏱️
+  - Pixel Coordinate Extraction: Obtain pixel data from videos for detailed analysis. 🎯
+  - Metadata Handling: Extract and edit video metadata seamlessly. 📝
+
+- Data Visualization:
+  - 2D and 3D Plotting: Visualize data with advanced plotting tools. 📈📊
+  - Data Viewing: Inspect C3D and CSV data directly within the toolbox. 👀
 
 ### The vailá Manifesto
 
