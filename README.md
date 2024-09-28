@@ -1,6 +1,7 @@
 ## Hello, libertarian coders! ⚔️
 
-Welcome to **vailá** - Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox! This is not just another software; it's an idea. A revolutionary idea that challenges the norms of commercial systems, providing a free, versatile, and powerful tool for biomechanical analysis.
+Welcome to **vailá** - Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox! 🤟🏾
+This is not just another software; it's an idea. A revolutionary idea that challenges the norms of commercial systems, providing a free, versatile, and powerful tool for biomechanical analysis.
 
 <center>
   <img src="vaila.png" alt="vailá Logo" width="100"/>
@@ -11,7 +12,7 @@ Welcome to **vailá** - Versatile Anarcho Integrated Liberation Ánalysis in Mul
 
 ### About vailá
 
-**vailá** is designed to democratize advanced biomechanical analysis by integrating data from various motion capture systems. We aim to eliminate high costs and accessibility barriers, empowering everyone to explore, experiment, and innovate without constraints. ⚔️🖥️
+**vailá** is designed to democratize advanced biomechanical analysis by integrating data from various motion capture systems. We aim to eliminate high costs and accessibility barriers, empowering everyone to explore, experiment, and innovate without constraints. 🤟🏾⚔️🖥️
 
 ### Features and Capabilities
 
@@ -47,15 +48,15 @@ Welcome to **vailá** - Versatile Anarcho Integrated Liberation Ánalysis in Mul
   - 2D and 3D Plotting: Visualize data with advanced plotting tools. 📈📊
   - Data Viewing: Inspect C3D and CSV data directly within the toolbox. 👀
 
-### The vailá Manifesto
+### The vailá Manifesto 
 
-In front of you stands a versatile and anarcho-integrated tool, designed to challenge the boundaries of commercial systems. This software, not a mere substitute, is a symbol of innovation and freedom, now available and accessible. We are determined to eliminate the barriers that protect the monopoly of expensive software, ensuring the dissemination of knowledge and accessibility. 🏴‍☠️🖥️
+In front of you stands a versatile and anarcho-integrated tool, designed to challenge the boundaries of commercial systems. This software, not a mere substitute, is a symbol of innovation and freedom, now available and accessible. We are determined to eliminate the barriers that protect the monopoly of expensive software, ensuring the dissemination of knowledge and accessibility. 🤟🏾🏴‍☠️🖥️
 
-We have left the box open with vailá to insert your ideas and processing in a liberated manner. The only verdict is versatility; a vendetta against exorbitant costs, held as a vow, not in vain, for the value and veracity of which shall one day vindicate the vigilant and the virtuous in the field of motion analysis. Surely, this torrent of technology tends to be very innovative, so let me simply add that it is a great honor to have you with us, and you may call this tool vailá. 🏴‍☠️💡
+We have left the box open with vailá to insert your ideas and processing in a liberated manner. The only verdict is versatility; a vendetta against exorbitant costs, held as a vow, not in vain, for the value and veracity of which shall one day vindicate the vigilant and the virtuous in the field of motion analysis. Surely, this torrent of technology tends to be very innovative, so let me simply add that it is a great honor to have you with us, and you may call this tool vailá. 🤟🏾🏴‍☠️💡
 
 ### The vailá Idea
 
-"vailá" is an expression that blends the sound of the French word "voilà" with the direct encouragement in Portuguese "vai lá." It is a call to action, an invitation to initiative and freedom to explore, experiment, and create without the constraints imposed by expensive commercial software. "vailá" means "go there and do it!", encouraging everyone to harness the power of the "vailá: Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox" to perform analysis with data from multiple systems. 💻🎓⚔️
+"vailá" is an expression that blends the sound of the French word "voilà" with the direct encouragement in Portuguese "vai lá." It is a call to action, an invitation to initiative and freedom to explore, experiment, and create without the constraints imposed by expensive commercial software. "vailá" means "go there and do it!", encouraging everyone to harness the power of the "vailá: Versatile Anarcho Integrated Liberation Ánalysis in Multimodal Toolbox" to perform analysis with data from multiple systems. 🤟🏾💻🎓⚔️
 
 ### Contribution Guidelines
 
