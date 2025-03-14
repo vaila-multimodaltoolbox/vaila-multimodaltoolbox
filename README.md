@@ -43,6 +43,7 @@ This is not just another software; it's an idea. A revolutionary idea that chall
   - Synchronization: Sync multiple video streams for coordinated analysis. ⏱️
   - Pixel Coordinate Extraction: Obtain pixel data from videos for detailed analysis. 🎯
   - Metadata Handling: Extract and edit video metadata seamlessly. 📝
+  - And more 👀
 
 - Data Visualization:
   - 2D and 3D Plotting: Visualize data with advanced plotting tools. 📈📊
@@ -64,6 +65,6 @@ We have left the box open with vailá to insert your ideas and processing in a l
 
 ### Resources
 
-📜 Find more resources, papers, and examples on our [main website](https://vaila-multimodaltoolbox.org).
+📜 Find more resources, papers, and examples on our [main website](https://arxiv.org/abs/2410.07238).
 
 🔍 Check out our repositories below to find helper code, additional tools, and more! 🏴‍☠️🔧
